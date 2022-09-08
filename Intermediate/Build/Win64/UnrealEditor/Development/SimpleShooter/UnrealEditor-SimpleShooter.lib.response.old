@@ -1,0 +1,31 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SimpleShooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\BTService_PlayerLocation.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\BTService_PlayerLocationIfSeen.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\BTTask_ClearBlackboardValue.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\BTTask_Shoot.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\Gun.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\KillEmAllGameMode.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\PlayerShooterGameModeBase.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\ShooterAIController.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\ShooterCharacter.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\SimpleShooter.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\BTService_PlayerLocation.gen.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\BTService_PlayerLocationIfSeen.gen.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\BTTask_ClearBlackboardValue.gen.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\BTTask_Shoot.gen.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\Gun.gen.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\KillEmAllGameMode.gen.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\PlayerShooterGameModeBase.gen.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\ShooterAIController.gen.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\ShooterCharacter.gen.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\SimpleShooter.init.gen.cpp.obj"
+"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\Default.rc2.res"
+/OUT:"D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\UnrealEditor-SimpleShooter.lib"

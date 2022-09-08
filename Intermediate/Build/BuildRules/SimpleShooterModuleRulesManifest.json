@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\SimpleShooter.Build.cs",
+		"D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter.Target.cs",
+		"D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooterEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

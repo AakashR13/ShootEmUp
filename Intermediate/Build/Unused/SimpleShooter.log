@@ -1,0 +1,17 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\Aakash Reddy\AppData\Local\UnrealBuildTool\Log.txt
+  Building SimpleShooterEditor...
+  Using Visual Studio 2022 14.33.31629 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.20348.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from SimpleShooter unity file: BTService_PlayerLocation.cpp, BTService_PlayerLocationIfSeen.cpp, BTTask_ClearBlackboardValue.cpp, BTTask_Shoot.cpp, Gun.cpp, KillEmAllGameMode.cpp, PlayerShooterGameModeBase.cpp, ShooterAIController.cpp, ShooterCharacter.cpp, ShooterPlayerController.cpp, SimpleShooter.cpp
+  Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+    Executing up to 6 processes, one per physical core
+    Requested 1.5 GB free memory per action, 3.65 GB available: limiting max parallel actions to 2
+  Building 4 actions with 2 processes...
+  [1/4] Compile ShooterPlayerController.cpp
+  [2/4] Link UnrealEditor-SimpleShooter.lib
+     Creating library D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\UnrealEditor-SimpleShooter.lib and object D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\UnrealEditor-SimpleShooter.exp
+  [3/4] Link UnrealEditor-SimpleShooter.dll
+     Creating library D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\UnrealEditor-SimpleShooter.suppressed.lib and object D:\Unreal Projects\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Development\SimpleShooter\UnrealEditor-SimpleShooter.suppressed.exp
+  [4/4] WriteMetadata SimpleShooterEditor.target
+  Total time in Parallel executor: 971.63 seconds
+  Total execution time: 973.74 seconds

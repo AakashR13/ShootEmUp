@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\simpleshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\simpleshooter\\killemallgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\simpleshooter\\intermediate\\build\\win64\\simpleshootereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\simpleshooter\\intermediate\\build\\win64\\unrealeditor\\development\\simpleshooter\\definitions.simpleshooter.h",
+            "d:\\unreal projects\\simpleshooter\\source\\simpleshooter\\killemallgamemode.h",
+            "d:\\unreal projects\\simpleshooter\\source\\simpleshooter\\playershootergamemodebase.h",
+            "c:\\program files (x86)\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files (x86)\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files (x86)\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files (x86)\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\unreal projects\\simpleshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\simpleshooter\\playershootergamemodebase.generated.h",
+            "d:\\unreal projects\\simpleshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\simpleshooter\\killemallgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
